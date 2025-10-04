@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.tab-active {
+    border-color: #3b82f6;
+    color: #3b82f6;
+    background-color: #eff6ff;
+}
+
+.input-invalid {
+    border-color: #ef4444 !important;
+    ring-color: #ef4444 !important;
+}
